@@ -4,7 +4,7 @@
 		module="sparkscala$sources"
 		revision="0.1"
 		status="integration"
-		publication="20181019000526"
+		publication="20181023001406"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
